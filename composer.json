@@ -12,7 +12,8 @@
         "ergonode/attribute": "dev-main as 1.3.0-dev",
         "ergonode/channel": "^1.2.0",
         "ergonode/product-collection": "^1.2.0",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3",
+        "limenius/liform-bundle": "^0.17.0"
     },
     "require-dev": {
         "dama/doctrine-test-bundle": "^6.5",
@@ -20,7 +21,6 @@
         "ergonode/authentication": "^1.2",
         "ergonode/core": "^1.2",
         "ergonode/fixture": "^1.2",
-        "limenius/liform-bundle": "^0.17.0",
         "malukenho/docheader": "^0.1.8",
         "phpstan/phpstan": "^0.12.85",
         "phpunit/phpunit": "^9.5",
